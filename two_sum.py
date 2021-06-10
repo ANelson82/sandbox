@@ -1,6 +1,6 @@
 nums = [2,7,11,15]
 target = 9
-print(len(nums))
+# print(len(nums))
 
 class Solution:
     def twoSum(self, nums, target):
